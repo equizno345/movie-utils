@@ -1,0 +1,10 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Keep data directory in repo, ignore its contents
+data/*
+!data/.gitkeep
